@@ -1,5 +1,5 @@
 ### All ghosts, when closely examined, are just withered flowers. 🌸
-![Alt Text](https://github.com/th1590/th1590/blob/main/bare_bears.gif)
+[![NGUYENTHANHHOANG](bare_bears.gif)](https://www.linkedin.com/in/th1590/)
 <!--
 **th1590/th1590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
